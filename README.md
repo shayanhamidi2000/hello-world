@@ -1,1 +1,3 @@
 # hello-world
+as my first experience in github...
+I am going to code the common hello world programme.
